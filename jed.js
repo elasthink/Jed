@@ -25,6 +25,8 @@ against his. I also made sure Jed passed against his tests
 in order to offer easy upgrades -- jsgettext.berlios.de
 */
 
+var undef = undefined;
+
 // Set up some underscore-style functions, if you already have
 // underscore, feel free to delete this section, and use it
 // directly, however, the amount of functions used doesn't
